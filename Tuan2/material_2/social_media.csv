@@ -1,0 +1,6 @@
+user_id,username,post_date,content,likes,shares,hashtags
+1,john_doe,2024-01-15,Amazing day!,250,30,#happy #travel
+2,jane_smith,2024-01-15,Learning Spark,150,15,#datascience #coding
+3,alex_tech,2024-01-16,Big data insights,300,45,#bigdata #spark
+4,john_doe,2024-01-16,Weekend vibes,200,25,#weekend #fun
+5,emma_dev,2024-01-17,New project launch,400,60,#startup #technology
